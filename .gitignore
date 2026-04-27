@@ -1,0 +1,4 @@
+x.Ds_Store
+*.DS_Store
+Script/src/kaggle/kaggle.json
+**/.DS_Store

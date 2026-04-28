@@ -21,8 +21,11 @@
 - Lokasi Folder : Script/data/test
 
 # Model
-- Wave2Vec2
+- Wav2Vec2-Base
 - Wishper-Base
+- whisper-small
+- whisper-small LoRA fine tuning
+- wav2vec base960h
 
 # Struktur Folder
 ## Document
